@@ -5,7 +5,7 @@ Use a wonderfull OCR library [tesseract-ocr](https://code.google.com/p/tesseract
 
 ### Preparation (Mac OS X)
 ```
-brew install tesserac
+brew install tesseract
 ```
 
 ### Install
