@@ -25,6 +25,7 @@ e = Tesseract::Engine.new {|e|
 # http://campaign-finance.g0v.ctiml.tw/api/getrandoms
 #
 
+sleep(2)
 
 uri = URI.parse("http://campaign-finance.g0v.ctiml.tw/api/getrandoms")
 
