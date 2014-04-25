@@ -3,6 +3,11 @@ campaign-finance-ocr
 
 Use a wonderfull OCR library [tesseract-ocr](https://code.google.com/p/tesseract-ocr/)  to recognize g0v campaign-finance project [政治獻金數位化](http://campaign-finance.g0v.ctiml.tw/)
 
+### Preparation (Mac OS X)
+```
+brew install tesseract
+```
+
 ### Install
 
 ```
